@@ -1,0 +1,28 @@
+body{
+    margin-top: 3.5rem;
+    font-family: 'Poppins', sans-serif, 'Semibold';
+    background-color: #e6ebf2;
+}
+
+.navbar-nav > a{
+    color: #ffffff;
+}
+.navbar-nav > a:hover{
+    color: #ffffff;
+    background: #f64a8a;
+}
+.navbar, a:hover{
+    color: #ffffff;
+    background: #f64a8a;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.login{
+    margin-top: 8rem;
+    border-radius: 15px;
+    border: 1px solid black;
+    height: 450px;
+    box-shadow: 5px 10px #888888;
+    
+}
